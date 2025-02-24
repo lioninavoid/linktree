@@ -20,7 +20,7 @@ body {
 }
 .link {
     display: block;
-    background: #007BFF;
+    background:     #d1bc8a ;
     color: white;
     text-decoration: none;
     padding: 10px;
@@ -28,5 +28,5 @@ body {
     border-radius: 5px;
 }
 .link:hover {
-    background: #0056b3;
+    background: #d1bc8a ;
 }
